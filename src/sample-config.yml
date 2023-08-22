@@ -1,0 +1,7 @@
+# Fuck .env files long live to yaml
+DS_APP_HOST: ''
+DS_APP_PORT: ''
+DS_FILE_HANDLER: ''
+DS_PROJECT_PATH: ''
+DS_AUTO_CLEAR_ON_PAGE_RELOAD: ''
+DS_AUTO_INVOKE_APP: ''
